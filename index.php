@@ -22,7 +22,7 @@ session_start();
 
             <div class="brand-logo-wrapper">
                 <img
-                    src="NEW-LOGO_WHITE-BACKGROUND-1024x1024.png"
+                    src="NEW-LOGO_WHITE-BACKGROUND.png"
                     alt="DEBESMSCAT Official Logo"
                     class="brand-logo"
                 >
